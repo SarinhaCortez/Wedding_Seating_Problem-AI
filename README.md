@@ -1,5 +1,5 @@
 # IA Project 1 - Wedding Seating Planner
-This project focuses on solving the well-known Wedding Seating Planner problem. Various optimization algorithms, each with different parameter configurations, have been developed. A user-friendly interface has also been included to allow users to experiment with and explore the performance of these algorithms.
+This project was crafted for L.EIC029 course - Artificial Intelligence. It focuses on solving the well-known Wedding Seating Planner problem. For that, we applied various optimization algorithms, each with different parameter configurations. A user-friendly interface has also been included to allow users to experiment with and explore the performance of these algorithms.
 
 ## Execution
 To get started, you need to install the necessary libraries:
